@@ -1,0 +1,1235 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Jaime Lannister",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Cersei Lannister",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Daenerys Targaryen",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Jon Snow",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Apr 1 2020 11:11AM",
+          "end_time": "Apr 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 10:11AM",
+          "end_time": "Apr 2 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 9:00AM",
+          "end_time": "Apr 2 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 2 2020 4:11AM",
+          "end_time": "Apr 2 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 2 2020 3:00AM",
+          "end_time": "Apr 2 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 10:11AM",
+          "end_time": "Apr 3 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 9:00AM",
+          "end_time": "Apr 3 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 3 2020 4:11AM",
+          "end_time": "Apr 3 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 3 2020 3:00AM",
+          "end_time": "Apr 3 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 10:11AM",
+          "end_time": "Apr 4 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 9:00AM",
+          "end_time": "Apr 4 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 4 2020 4:11AM",
+          "end_time": "Apr 4 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 4 2020 3:00AM",
+          "end_time": "Apr 4 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 10:11AM",
+          "end_time": "Apr 5 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 9:00AM",
+          "end_time": "Apr 5 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 5 2020 4:11AM",
+          "end_time": "Apr 5 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 5 2020 3:00AM",
+          "end_time": "Apr 5 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 10:11AM",
+          "end_time": "Apr 6 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 9:00AM",
+          "end_time": "Apr 6 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 6 2020 4:11AM",
+          "end_time": "Apr 6 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 6 2020 3:00AM",
+          "end_time": "Apr 6 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 10:11AM",
+          "end_time": "Apr 7 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 9:00AM",
+          "end_time": "Apr 7 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 7 2020 4:11AM",
+          "end_time": "Apr 7 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 7 2020 3:00AM",
+          "end_time": "Apr 7 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 10:11AM",
+          "end_time": "Apr 10 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 9:00AM",
+          "end_time": "Apr 10 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 10 2020 4:11AM",
+          "end_time": "Apr 10 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 10 2020 3:00AM",
+          "end_time": "Apr 10 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 10:11AM",
+          "end_time": "Apr 12 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 9:00AM",
+          "end_time": "Apr 12 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 12 2020 4:11AM",
+          "end_time": "Apr 12 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 12 2020 3:00AM",
+          "end_time": "Apr 12 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 10:11AM",
+          "end_time": "Apr 14 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 9:00AM",
+          "end_time": "Apr 14 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 14 2020 4:11AM",
+          "end_time": "Apr 14 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 14 2020 3:00AM",
+          "end_time": "Apr 14 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 10:11AM",
+          "end_time": "Apr 20 2020 2:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 9:00AM",
+          "end_time": "Apr 20 2020 2:00PM"
+        },
+        {
+          "start_time": "Apr 20 2020 4:11AM",
+          "end_time": "Apr 20 2020 9:20PM"
+        },
+        {
+          "start_time": "Apr 20 2020 3:00AM",
+          "end_time": "Apr 20 2020 8:00PM"
+        },
+        {
+          "start_time": "Apr 16 2020  8:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020  6:20PM",
+          "end_time": "Apr 16 2020 9:30PM"
+        },
+        {
+          "start_time": "Apr 6 2020  5:33PM",
+          "end_time": "Apr 6 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 6 2020  6:20PM",
+          "end_time": "Apr 6 2020 9:30PM"
+        }
+      ]
+    }
+  ]
+}
