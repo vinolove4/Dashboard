@@ -1,3 +1,16 @@
+## Sample JSON
+
+The sample jason file is available under src/SampleResponse.json
+You can manipulate the json accordingly
+
+## Run project
+
+To Run a project, 
+### `npm start`
+or
+### `yarn start`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
